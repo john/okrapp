@@ -1,6 +1,9 @@
-# ROKR
+# okrapp
 
-OKR tracking app for RMI — set nested Objectives and Key Results across programs and initiatives.
+A simple OKR app for doing OKRs, and nothing else. Doesn't track progress, but that's coming soon
+
+<img width="948" height="976" alt="Screenshot 2026-03-10 at 10 30 31 AM" src="https://github.com/user-attachments/assets/4bb29884-d750-4b6f-aeb8-786ddc9597f4" />
+
 
 ## Stack
 
